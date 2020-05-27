@@ -1,0 +1,40 @@
+D:\Projects\BBTTA\LicenseKey\bin\Debug\LicenseKey.exe.config
+D:\Projects\BBTTA\LicenseKey\bin\Debug\LicenseKey.exe
+D:\Projects\BBTTA\LicenseKey\bin\Debug\LicenseKey.pdb
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.LicenseTerm.resources
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.exe
+D:\Projects\BBTTA\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\Output\License\LicenseKey.exe.config
+D:\Output\License\LicenseKey.exe
+D:\Output\License\LicenseKey.pdb
+C:\Users\SAFAK-PC\Output\License\LicenseKey.exe.config
+C:\Users\SAFAK-PC\Output\License\LicenseKey.exe
+C:\Users\SAFAK-PC\Output\License\LicenseKey.pdb
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.LicenseTerm.resources
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\SAFAK-PC\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Output\License\LicenseKey.exe.config
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Output\License\LicenseKey.exe
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Output\License\LicenseKey.pdb
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.LicenseTerm.resources
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_1-2018_2019\Ş_Folder\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.LicenseTerm.resources
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\SAFAK-PC\Desktop\cs-season_2-2019_2020\4 - Crypto\Eski_Crypto\Assignments\Assignment - Final - Upload your project report prepared according to the IEEE document template\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
